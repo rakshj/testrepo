@@ -1,2 +1,10 @@
+<<<<<<< Updated upstream
+<<<<<<< Updated upstream
 Change 1
 Change 12
+=======
+rererere
+>>>>>>> Stashed changes
+=======
+rererere
+>>>>>>> Stashed changes
